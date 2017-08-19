@@ -23,6 +23,7 @@ php artisan serve
 cd angular
 yarn
 ng serve // if dev front end only
+./run //compile angular for laravel 
 ```
 
 ## angular cli
