@@ -1,0 +1,4 @@
+cd angular;
+ng build;
+mv dist/*.js ../public/js;
+rm -rf dist;
