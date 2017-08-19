@@ -9,16 +9,21 @@
 
 ## Setup Laravel
 
+```markdown
 composer install
-fix .env
+```
+update .env
+```markdown
 php artisan generate:key 
 php artisan serve
-
+```
 ## Setup Angular
 
+```markdown
 cd angular
 yarn
-ng serve
+ng serve // if dev front end only
+```
 
 ## angular cli
 standard ng cli
